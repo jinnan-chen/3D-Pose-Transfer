@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+/ssd/jnchen/keypoint_deformer_smpl_elain_tpose/torch-batch-svd/torch_batch_svd/csrc/bindings.cpp
+/ssd/jnchen/keypoint_deformer_smpl_elain_tpose/torch-batch-svd/torch_batch_svd/csrc/torch_batch_svd.cpp
+torch_batch_svd/__init__.py
+torch_batch_svd/batch_svd.py
+torch_batch_svd.egg-info/PKG-INFO
+torch_batch_svd.egg-info/SOURCES.txt
+torch_batch_svd.egg-info/dependency_links.txt
+torch_batch_svd.egg-info/requires.txt
+torch_batch_svd.egg-info/top_level.txt

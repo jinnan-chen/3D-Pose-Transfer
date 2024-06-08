@@ -1,5 +1,6 @@
 # Weakly-supervised 3D Pose Transfer with Keypoints (ICCV2023)
-Code for Weakly-supervised 3D Pose Transfer with Keypoints.
+Code for Weakly-supervised 3D Pose Transfer with Keypoints. 
+Project page: https://jinnan-chen.github.io/ws3dpt/
 The model consists of the followwing steps:
 
 1.Keypoint detection

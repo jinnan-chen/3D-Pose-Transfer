@@ -5,11 +5,11 @@
   <img src="teaser.png" alt="Teaser"  style="width:80%">
 </p>
 
-The model consists of the followwing steps:
-1.Keypoint detection
-2.Inverse IK
-3.Motion propagation
-4.Mesh refinement
+The model consists of the followwing steps:\
+1.Keypoint detection\
+2.Inverse IK\
+3.Motion propagation\
+4.Mesh refinement\
 
 Detailed documentation will be updated.
 

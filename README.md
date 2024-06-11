@@ -9,7 +9,7 @@ The model consists of the followwing steps:\
 1.Keypoint detection\
 2.Inverse IK\
 3.Motion propagation\
-4.Mesh refinement\
+4.Mesh refinement
 
 Detailed documentation will be updated.
 

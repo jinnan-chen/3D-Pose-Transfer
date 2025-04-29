@@ -16,8 +16,9 @@ Detailed documentation will be updated.
 ## Citation
 If you find our code or paper helps, please consider citing:
 ```
-@article{jnchen23ws3dpt,
-                title={Weakly-supervised 3D Pose Transfer with Keypoints},
-                author={Jinnan Chen and Chen Li Gim Hee Lee},
-                year={2023}
+@article{chen2023weaklysupervised,
+  title={Weakly-supervised 3D Pose Transfer with Keypoints},
+  author={Chen, Jinnan and Li, Chen and Lee, Gim Hee},
+  journal={arXiv preprint arXiv:2307.13459},
+  year={2023}
 }

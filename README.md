@@ -12,6 +12,11 @@ The model consists of the followwing steps:\
 4.Mesh refinement
 
 Detailed documentation will be updated.
+## Training
+bash script.sh
+
+## Testing
+bash test.sh
 
 ## Citation
 If you find our code or paper helps, please consider citing:
